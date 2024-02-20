@@ -4,6 +4,6 @@ This is a flutter application to classify blood sugar readings using Material UI
 
 1. Input screen: It should have two input fields to receive before & after blood glucose values, a button to validate the values and navigate to next screen to display the result.
    
-2. Information screen: Display category info as per the input data. (10 marks)
+2. Information screen: Display category info as per the input data.
 
 
